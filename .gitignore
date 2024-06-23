@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Baseball-analyser/.vs/Baseball-analyser/v16
+/Baseball-analyser/Baseball-analyser/obj
+/Baseball-analyser/Baseball-analyser/bin/Debug/net5.0
+/Baseball-analyser/TestProject/obj/Debug/net5.0
+/Baseball-analyser/TestProject/obj
+/Baseball-analyser/.vs/Baseball-analyser/DesignTimeBuild
+/Baseball-analyser/TestProject/bin/Debug/net5.0
